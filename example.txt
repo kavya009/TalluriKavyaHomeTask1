@@ -1,0 +1,5 @@
+$ git config --global user.name "username"
+$ git config --global user.email email.com
+$ git clone(url)
+$ git init
+$git add filename
